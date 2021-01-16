@@ -1,4 +1,4 @@
-<a href="https://chalkboard.space"><img alt="Chalkboard - Share your code and collaborate with developers around the world" src="https://repository-images.githubusercontent.com/227622401/63baff80-1cd6-11ea-8055-bc2b728dc09e" width="100%"></a>
+<a href="https://chalkboard.space"><img alt="Chalkboard - Share your code and collaborate with developers around the world" src="https://repository-images.githubusercontent.com/227622401/ae6a9400-3b43-11eb-9357-f02540ac4c6b" width="100%"></a>
 
 > Share your code and collaborate with developers around the world.
 
